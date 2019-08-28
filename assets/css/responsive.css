@@ -1,0 +1,71 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+  
+    .mainmenu li {
+   
+    padding-left: 76px;
+}
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+ 
+    .mainmenu li {
+    
+    padding-left: 50px;
+}
+
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+ .logo {
+    padding: 31px 0;
+    text-align: center;
+}
+.mainmenu li a {
+   
+    padding: 18px 0;
+    font-size: 10px;
+}
+.mainmenu li {
+   
+    padding-left: 11px;
+}
+.single-blog-item {
+    margin-bottom: 28px;
+}
+.comment-section {
+    margin-bottom: 36px;
+}
+.blog-meta {
+    padding: 10px 0;
+}
+.section-padding{
+	padding: 12px;
+}
+.load-more {
+    padding: 27px 0;
+    margin-bottom: 10px;
+}
+.load-more-btn {
+   
+    padding: 6px 12px;
+}
+.footer-area {
+   
+    padding: 12px;
+}
+.footer-area li {
+   
+    padding: 4px;
+    padding-left: 27px;
+    text-align: center;
+}
+.social-icon-customize.text-right {
+    text-align: center;
+}
+    
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+
+}
